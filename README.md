@@ -10,8 +10,8 @@ Entendo a importância dos dados em nossa realidade, onde informação é conhec
 
 ### Será abordado os conceitos iniciais: 
 
-* Dados e informação;
-* Banco de Dados relacional e não relacional;
-* Modelos de dados;
-* Normalização de Dados;
-* Modelagem de Dados;
+* [x] Dados e informação;
+* [x] Banco de Dados relacional e não relacional;
+* [x] Modelos de dados;
+* [x] Normalização de Dados;
+* [x] Modelagem de Dados;
