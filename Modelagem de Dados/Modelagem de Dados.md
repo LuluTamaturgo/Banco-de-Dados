@@ -110,14 +110,13 @@ Modelar dados é equilibrar as necessidades de hoje com o crescimento de amanhã
 
 **2. Melhores Práticas para o Sucesso**
 Para transformar esses desafios em sistemas robustos, siga estes pilares:
-|------|-------------|
-|Pilar | Ação Prática |
-|Colaboração |	Envolva stakeholders e usuários desde o início; o modelo deve falar a língua do negócio. |
-|Metodologia | 	Use padrões consolidados (ER para transacional, Dimensional para Analytics) para evitar ambiguidades.|
-|Flexibilidade | Projete pensando em extensão, não em substituição. Evite "engessar" as tabelas.|
-|Qualidade Técnica | Aplique normalização (para evitar redundância) e indexação inteligente (para velocidade).|
-|Documentação |	Um modelo sem documentação é uma "caixa preta". Mantenha o dicionário de dados sempre atualizado.|
-
+| Pilar | Ação Prática |
+| :--- | :--- |
+| **Colaboração** | Envolva stakeholders e usuários desde o início; o modelo deve falar a língua do negócio. |
+| **Metodologia** | Use padrões consolidados (ER para transacional, Dimensional para Analytics) para evitar ambiguidades. |
+| **Flexibilidade** | Projete pensando em extensão, não em substituição. Evite "engessar" as tabelas. |
+| **Qualidade Técnica** | Aplique normalização (para evitar redundância) e indexação inteligente (para velocidade. |
+| **Documentação** | Um modelo sem documentação é uma "caixa preta". Mantenha o dicionário de dados sempre atualizado. |
 Dica de Ouro: A modelagem não termina no "Go-Live". Ela é um processo vivo que exige refatoração constante para se manter eficiente conforme a empresa cresce.
 
 ---
@@ -147,8 +146,8 @@ Investir em modelagem vai além de organizar tabelas; trata-se de construir a ba
 ---
 
 ## Resumo do Impacto:
-|-----|-----------------|
-|Área |	Resultado Direto |
-|Operacional | Processos mais rápidos e menos erros.|
-|Financeiro | Menor custo de armazenamento e manutenção.|
-|Estratégico | Vantagem competitiva e visão clara do mercado.|
+| Área | Resultado Direto |
+| :--- | :--- |
+| **Operacional** | Processos mais rápidos e menos erros. |
+| **Financeiro** | Menor custo de armazenamento e manutenção. |
+| **Estratégico** | Vantagem competitiva e visão clara do mercado. |

@@ -1,0 +1,73 @@
+# Modelagem de Dados:
+
+-> Modelos de entidades relacionamento, modelo lógico, normalização e modelo físico (https://cursos.alura.com.br/formacao-modelagem-dados)
+	1 Modelagem de entidade relacionamento
+		Artigo : O que é e para que serve a modelagem de dados? | Alura
+		Artigo : MER e DER: Definições, Banco de Dados e Exemplos | Alura
+		Curso : Modelagem de dados: identificando entidades, atributos, relacionamentos
+		
+	2 Modelagem lógica e normalização dos dados
+		Curso : Modelagem de dados: desenvolvendo o modelo lógico
+		Artigo : Normalização: o que é, para que serve e como usá-la | Alura
+		Curso : Modelagem de dados: aplicando a normalização
+		
+	3 Criando o modelo físico
+		Artigo : Diferenças entre modelo lógico e modelo físico | Alura
+		Curso : Modelagem de dados: construindo o modelo físico
+		Artigo : O que é e para que serve Data Catalog e Dicionário de Dados? | Alura
+		Artigo : Engenharia reversa com o Power Architect | Alura
+		Artigo : Conhecendo a Álgebra Relacional para consulta de dados relacionais | Alura
+		
+-> Curso de Modelagem de dados: aplicando a normalização (https://cursos.alura.com.br/course/modelagem-dados-aplicando-normalizacao)
+	1 Normalização Ver primeiro vídeo
+	1 e 2 forma normal
+	3 forma normal
+	BC, 4 e 5 forma normal
+	Normalização para outras áreas
+	
+-> Curso de Modelagem de dados: desenvolvendo o modelo lógico (https://cursos.alura.com.br/course/modelagem-dados-desenvolvendo-modelo-logico)
+	Transformação do modelo conceitual em lógico Ver primeiro vídeo
+	Definindo tabelas e relacionamentos
+	Avançando na modelagem lógica
+	Aplicando o modelo lógico à planilha
+	Aplicando em outros contextos
+	
+-> Curso de Modelagem de dados: construindo o modelo físico (https://cursos.alura.com.br/course/modelagem-dados-construindo-modelo-fisico)
+	Iniciando o projeto Ver primeiro vídeo
+	Representando as especificações dos dados
+	Representando os relacionamentos
+	Inserindo o modelo no SGBD
+	Utilizando a modelagem no dia a dia
+
+# Consultas SQL:
+
+-> Curso de Realizando consultas com SQL: Joins, Views e transações (https://cursos.alura.com.br/course/realizando-consultas-sql-joins-views-transacoes)
+
+-> Administração com PostgreSQL Gerenciamento, otimização, segurança e continuidade de ambientes PostgreSQL (https://cursos.alura.com.br/formacao-administracao-postgresql)
+	1 Manutenção e administração eficiente
+		Artigo : O papel do DBA: responsabilidades e habilidades essenciais no gerenciamento de bancos de dados | Alura
+		Artigo : A importância da manutenção preventiva no PostgreSQL para garantir desempenho e disponibilidade | Alura
+		Curso : PostgreSQL: administração e monitoramento
+		
+	2 Planejamento e execução de backups
+		Artigo : Políticas de Backup no PostgreSQL: como garantir a recuperação rápida e eficiente de dados | Alura
+		Curso :  Administração com PostgreSQL: backup e recuperação
+		
+	3 Otimização de desempenho e alta disponibilidade
+		Artigo : Índices no PostgreSQL: estratégias para otimização de consultas complexas | Alura
+		Curso : Administração com PostgreSQL: desempenho e otimização
+		Artigo : Garantindo Alta Disponibilidade no PostgreSQL com Replicação | Alura
+		Curso : Administração com PostgreSQL: replicação e alta disponibilidade
+		
+# SQL Avançado:
+
+-> CTE: o que é e para que serve no SQL (https://www.alura.com.br/artigos/cte-o-que-e-para-que-serve-sql)
+
+-> Curso de Praticando SQL: Common Table Expressions (https://cursos.alura.com.br/course/sql-common-table-expressions)
+
+-> Curso de PostgreSQL: Views, Sub-Consultas e Funções
+	Chaves estrangeiras e Tipos Ver primeiro vídeo
+	Praticando comandos
+	Executando Sub-consultas
+	Usando funções
+	Criando views
